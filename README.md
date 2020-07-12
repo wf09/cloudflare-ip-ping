@@ -27,6 +27,8 @@ In `pingip.py` file. You could change:
  You could open an issue and upload your log file, tell me whether this script works or not, please attach your location and your network supplier.
  
  ## RUN
+ ```
  wget https://cdn.jsdelivr.net/gh/wf09/cloudflare-ip-ping/cloudflare-ip-ping.zip
  unzip cloudflare-ip-ping.zip
+ ```
  
